@@ -1,0 +1,23 @@
+{
+  "name": "nv-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.jp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NattavutoW/nv-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NattavutoW/nv-web/issues"
+  },
+  "homepage": "https://github.com/NattavutoW/nv-web#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
