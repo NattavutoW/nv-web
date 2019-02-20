@@ -1,7 +1,6 @@
 {
   "name": "nv-web",
   "version": "1.0.0",
-  "description": "",
   "main": "src/app.jp",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +16,18 @@
   },
   "homepage": "https://github.com/NattavutoW/nv-web#readme",
   "dependencies": {
+    "async": "^2.6.2",
+    "balanced-match": "^1.0.0",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "msnodesqlv8": "^0.6.12",
+    "mysql": "^2.16.0",
+    "node": "^11.10.0",
+    "nodejs": "0.0.0",
+    "tedious": "^5.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
 }
